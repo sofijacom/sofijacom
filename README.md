@@ -2,7 +2,7 @@
 
 <p align="center">
   
-  <img src="https://github.com/sofijacom/sofijacom/assets/107557749/7d5ea135-ef66-44c2-a65d-93d48633a09c" />
+  <img src="https://github.com/sofijacom/sofijacom/assets/107557749/c4abfbc2-02d4-4a79-a75f-24e948bf83ee" />
   
 </p>
 
