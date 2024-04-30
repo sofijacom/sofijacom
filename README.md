@@ -9,10 +9,14 @@
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
    
 
-![Image](https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true)
+<a href="https://github.com/sofijacom/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/sofijacom/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom"]"https://github.com/sofijacom/github-readme-stats"&card_width=320" />
+</a>
 
-![divider](https://github.com/sofijacom/sofijacom/assets/107557749/8906b032-df97-414e-a422-12cd76bfd111)
- 
+![divider](https://github.com/sofijacom/sofijacom/assets/107557749/8906b032-df97-414e-a422-12cd76bfd111) 
 
 <!--
 **sofijacom/sofijacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
