@@ -1,9 +1,10 @@
 ### Hi there 👋
-![1614505580_1508424744](https://github.com/sofijacom/sofijacom/assets/107557749/8767c9ef-5c55-4258-a316-f8a774caadeb)
 
-
-![dobro-pozhalovat-animatsionnaya-kartinka-0269](https://github.com/sofijacom/sofijacom/assets/107557749/b3962be4-cf62-497f-9d5d-c0216ee744f1)
-
+<p align="center"> 
+  
+   ![dobro-pozhalovat-animatsionnaya-kartinka-0269](https://github.com/sofijacom/sofijacom/assets/107557749/b3962be4-cf62-497f-9d5d-c0216ee744f1)
+   
+</p>
 
 ![Image](https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true)
 
