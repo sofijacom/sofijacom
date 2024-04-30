@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![pixiz-25-02-2024-23-10-43](https://github.com/sofijacom/sofijacom/assets/107557749/5937625e-0d66-4c22-99a9-462574b023ca)
+
+
 ![Image](https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true)
 
 ### 
