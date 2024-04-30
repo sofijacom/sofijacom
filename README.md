@@ -14,7 +14,7 @@
 </a>
 
 <a href="https://github.com/sofijacom/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom"]"https://github.com/sofijacom/github-readme-stats"&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom"]"https://github.com/sofijacom/github-readme-stats"&card_width=300" />
 </a>
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/8906b032-df97-414e-a422-12cd76bfd111) 
