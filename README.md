@@ -1,14 +1,14 @@
 ### Hi there 👋
-
-<p align="center"> 
   
-   ![dobro-pozhalovat-animatsionnaya-kartinka-0269](https://github.com/sofijacom/sofijacom/assets/107557749/b3962be4-cf62-497f-9d5d-c0216ee744f1)
+![dobro-pozhalovat-animatsionnaya-kartinka-0269](https://github.com/sofijacom/sofijacom/assets/107557749/b3962be4-cf62-497f-9d5d-c0216ee744f1)
+
+![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
    
-</p>
 
 ![Image](https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true)
 
-### 
+![divider](https://github.com/sofijacom/sofijacom/assets/107557749/8906b032-df97-414e-a422-12cd76bfd111)
+ 
 
 <!--
 **sofijacom/sofijacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
