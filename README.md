@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-![pixiz-25-02-2024-23-10-43](https://github.com/sofijacom/sofijacom/assets/107557749/5937625e-0d66-4c22-99a9-462574b023ca)
+![dobro-pozhalovat-animatsionnaya-kartinka-0269](https://github.com/sofijacom/sofijacom/assets/107557749/b3962be4-cf62-497f-9d5d-c0216ee744f1)
 
 
 ![Image](https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true)
