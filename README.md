@@ -1,6 +1,10 @@
 ### Hi there 👋
+
+<p align="center">
   
-![dobro-pozhalovat-animatsionnaya-kartinka-0269](https://github.com/sofijacom/sofijacom/assets/107557749/b3962be4-cf62-497f-9d5d-c0216ee744f1)
+  <img src="https://github.com/sofijacom/sofijacom/assets/107557749/7d5ea135-ef66-44c2-a65d-93d48633a09c" />
+  
+</p>
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
    
