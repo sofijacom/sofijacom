@@ -9,11 +9,11 @@
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
    
 
-<a href="https://github.com/sofijacom/github-readme-stats">
+<a href="https://github.com/sofijacom/KLA-HyprlandCE">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/sofijacom/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom"]"https://github.com/sofijacom/github-readme-stats"&card_width="200" />
+<a href="https://github.com/sofijacom/sofijacom">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom"]"https://github.com/sofijacom/sofijacom"&card_width="200" />
 </a>
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/8906b032-df97-414e-a422-12cd76bfd111) 
