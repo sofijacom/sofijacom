@@ -18,11 +18,9 @@
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/8906b032-df97-414e-a422-12cd76bfd111) 
 
-<h3 align="center">
-  
-![GitHub Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count)
-
-</h3>
+<p align="center">  
+  <img height=165 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count" />
+</p>
 
 <h3 align="center">
   
