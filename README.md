@@ -22,16 +22,12 @@
   <img height=165 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count" />
 </p>
 
+<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="230" />
+
 <h3 align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Thank+you+for+visiting+!+💗)](https://git.io/typing-svg)
 </h3> 
-
-##
-
-<a href="https://github.com/sofijacom/KLV-HyprlandCE">  
-  <img align='right' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="230" />
-</a>
 
 <!--
 **sofijacom/sofijacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
