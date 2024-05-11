@@ -22,7 +22,7 @@
   <img height=165 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count" />
 </p>
 
-<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="150" />
+<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="150">
 
 <h3 align="center">
   
