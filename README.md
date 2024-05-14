@@ -30,6 +30,10 @@
   
 </p> 
 
+<p align="center">	
+  <img src="https://github.com/sofijacom/sofijacom/blob/main/gray0_ctp_on_line.svg" />
+</p>
+
 <!--
 **sofijacom/sofijacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
