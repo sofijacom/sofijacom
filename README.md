@@ -31,7 +31,7 @@
 </p> 
 
 <p align="center">	
-  <img src="https://github.com/sofijacom/sofijacom/blob/main/gray0_ctp_on_line.svg" />
+  <img src="https://github.com/sofijacom/sofijacom/blob/main/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
 <!--
