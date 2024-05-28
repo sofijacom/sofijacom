@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<p align="center"><img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width=600px></p>
-
 <p align="center">
   
   <img src="https://github.com/sofijacom/sofijacom/assets/107557749/c4abfbc2-02d4-4a79-a75f-24e948bf83ee" />
@@ -23,6 +21,8 @@
 <p align="center">  
   <img height=165 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count" />
 </p>
+
+<p align="center"><img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width=600px></p>
 
 <img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160">
 
