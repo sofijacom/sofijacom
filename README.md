@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center"><img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width=600px></p>
+
 <p align="center">
   
   <img src="https://github.com/sofijacom/sofijacom/assets/107557749/c4abfbc2-02d4-4a79-a75f-24e948bf83ee" />
