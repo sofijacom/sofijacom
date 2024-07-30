@@ -32,8 +32,6 @@
   
 </p> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sofijacom)](https://github.com/sofijacom/github-profile-trophy)
-
 <!--
 **sofijacom/sofijacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
