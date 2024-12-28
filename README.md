@@ -18,7 +18,7 @@
 <a href="https://github.com/sofijacom/KLA-HyprlandCE">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/sofijacom/KLV-HyprlandCE">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom&layout=compact&theme=jolly&langs_count=8&hide=html)](https://github.com/anuraghazra/github-readme-stats"&card_width=200 />
 </a>
 
