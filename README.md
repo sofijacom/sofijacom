@@ -19,7 +19,7 @@
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=165 align="center" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=sofijacom&theme=jolly&langs_count=8&hide=html)](https://github.com/anuraghazra/github-readme-stats"&card_width=400 />
+  <img height=165 align="center" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=sofijacom&theme=jolly&langs_count=12&hide=html)](https://github.com/anuraghazra/github-readme-stats" width=600px />
 </a>
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/8906b032-df97-414e-a422-12cd76bfd111) 
