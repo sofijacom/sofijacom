@@ -38,6 +38,12 @@
   
 </p> 
 
+<!-- GRS (Dark Mode) -->
+<a href="https://github.com/qwerty541#gh-dark-mode-only">
+  <img height=165 align="center" src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=sofijacom&theme=jolly&langs_count=10&size_weight=0.5&count_weight=0.5&custom_title=Langs%20distribution%20in%20my%20repos#gh-dark-mode-only"&card_width=200 />
+  </a>
+
+
 <!--
 **sofijacom/sofijacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
