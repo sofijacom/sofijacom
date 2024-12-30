@@ -29,6 +29,10 @@
   <img height=165 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count" />
 </p>
 
+<p align="center"> 
+   <img height=165 src="https://streak-stats.demolab.com/?user=sofijacom&theme=jolly&langs_count)](https://git.io/streak-stat"&card_width=200 />
+</p>
+
 <p align="center"><img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width=600px></p>
 
 <img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160">
@@ -38,10 +42,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Thank+you+for+visiting+!+❤+❤+❤)](https://git.io/typing-svg)
   
 </p> 
-
-<p align="center"> 
-   <img height=165 src="https://streak-stats.demolab.com/?user=sofijacom&theme=jolly&langs_count)](https://git.io/streak-stat"&card_width=200 />
-</p>
 
 
 <!--
