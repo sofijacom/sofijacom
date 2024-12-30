@@ -14,6 +14,7 @@
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
    
+<img align="center" src="./assets/git.png?raw=true"/>
 
 <a href="https://git.io/streak-stats">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true" />
