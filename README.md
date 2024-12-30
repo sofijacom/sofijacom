@@ -14,8 +14,6 @@
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
    
-<img align="center" src="./assets/git.png?raw=true"/>
-
 <a href="https://git.io/streak-stats">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true" />
 </a>
@@ -66,6 +64,8 @@ Here are some ideas to get you started:
 - [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom&layout=compact&count_private=true&show_icons=true&theme=jolly&hide_border=true)](https://github.com/pojokcodeid) ...
 
 - [![](https://github-readme-stats.vercel.app/api/top-langs/?username=pojokcodeid&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/pojokcodeid) ...
+
+- <img align="center" src="./assets/git.png?raw=true"/> ...
 
 <p align="center"> 
    <img height=165 src="https://streak-stats.demolab.com/?user=sofijacom&theme=jolly&langs_count)](https://git.io/streak-stat"&card_width=200 />
