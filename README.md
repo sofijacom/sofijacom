@@ -28,7 +28,7 @@
 </p>
 
 <p align="center"> 
-   <img height=165 src="https://streak-stats.demolab.com/?user=sofijacom&theme=jolly&langs_count)](https://git.io/streak-stat"&card_width=200 />
+   <img height=165 src="https://streak-stats.demolab.com/?user=sofijacom&theme=transparent&langs_count)](https://git.io/streak-stat"&card_width=200 />
 </p>
 
 <p align="center"><img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width=600px></p>
