@@ -38,6 +38,11 @@
   
 </p> 
 
+<p align="center"> 
+   <img height=165 src="https://streak-stats.demolab.com/?user=sofijacom&theme=jolly&langs_count)](https://git.io/streak-stat"&card_width=200 />
+</p>
+
+
 <!--
 **sofijacom/sofijacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -60,4 +65,9 @@ Here are some ideas to get you started:
 - [![](https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom&layout=compact&count_private=true&show_icons=true&theme=jolly&hide_border=true)](https://github.com/pojokcodeid) ...
 
 - [![](https://github-readme-stats.vercel.app/api/top-langs/?username=pojokcodeid&layout=compact&count_private=true&show_icons=true&theme=transparent&hide_border=true)](https://github.com/pojokcodeid) ...
+
+<p align="center"> 
+   <img height=165 src="https://streak-stats.demolab.com/?user=sofijacom&theme=jolly&langs_count)](https://git.io/streak-stat"&card_width=200 />
+</p>
+
 -->
