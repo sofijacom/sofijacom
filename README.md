@@ -27,10 +27,6 @@
   <img height=165 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count" />
 </p>
 
-<p align="center"> 
-   <img height=165 src="https://streak-stats.demolab.com/?user=sofijacom&theme=transparent&langs_count)](https://git.io/streak-stat"&card_width=200 />
-</p>
-
 <p align="center"><img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width=600px></p>
 
 <img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160">
@@ -69,6 +65,10 @@ Here are some ideas to get you started:
 
 <p align="center"> 
    <img height=165 src="https://streak-stats.demolab.com/?user=sofijacom&theme=jolly&langs_count)](https://git.io/streak-stat"&card_width=200 />
+</p>
+
+<p align="center"> 
+   <img height=165 src="https://streak-stats.demolab.com/?user=sofijacom&theme=transparent&langs_count)](https://git.io/streak-stat"&card_width=200 />
 </p>
 
 -->
