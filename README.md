@@ -17,8 +17,9 @@
 <a href="https://git.io/streak-stats">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=165 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count" />
+  <img height=165 align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count=4&count_private=true&show_icons=true" />
 </a>
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/8906b032-df97-414e-a422-12cd76bfd111) 
