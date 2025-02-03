@@ -14,12 +14,13 @@
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
    
-<a href="https://git.io/streak-stats">
+<p align="center">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+</p>
+
+<p align="center">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom&layout=compact&theme=jolly&langs_count=8&hide=html)](https://github.com/anuraghazra/github-readme-stats"&card_width=200 />
-</a>
+</p>
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/8906b032-df97-414e-a422-12cd76bfd111) 
 
@@ -29,7 +30,7 @@
 
 <p align="center"><img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width=600px></p>
 
-<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160">
+<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160" />
 
 <p align="center"> 
   
