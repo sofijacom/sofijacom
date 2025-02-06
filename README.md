@@ -15,7 +15,7 @@
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly&count_private=true&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom&layout=compact&theme=jolly&langs_count=8&card_width=320" />
@@ -24,7 +24,7 @@
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/8906b032-df97-414e-a422-12cd76bfd111) 
 
 <p align="center">  
-  <img height=165 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count" />
+  <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count" />
 </p>
 
 <p align="center"><img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width=600px></p>
