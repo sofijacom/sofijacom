@@ -23,11 +23,13 @@
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/8906b032-df97-414e-a422-12cd76bfd111) 
 
-<p align="center">  
-  <img height=200 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count" />
-</p>
+<div id="header" align="center">  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=jolly&langs_count" width="600"/>
+</div>
 
-<p align="center"><img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width=600px></p>
+<div id="header" align="center">
+  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="600"/>
+</div>
 
 <img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160">
 
