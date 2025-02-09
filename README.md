@@ -28,10 +28,10 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="600"/>
+  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="400"/>
 </div>
 
-<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160">
+<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160"/>
 
 <p align="center"> 
   
