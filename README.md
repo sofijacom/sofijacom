@@ -11,10 +11,6 @@
 </p>
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
-
-<div id="header" align="center">
-  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="600"/>
-</div>
    
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly" />
@@ -24,7 +20,7 @@
 </a>
 
 <div id="header" align="center">
-  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="450"/>
+  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="540"/>
 </div>
 
 <img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160"/>
