@@ -23,8 +23,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom&layout=compact&theme=jolly&langs_count=8&card_width=320" />
 </a>
 
-![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
-
 <div id="header" align="center">
   <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="450"/>
 </div>
@@ -52,4 +50,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ✨ https://git.io/typing-svg ...
+
+![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
+
+<div id="header" align="center">
+  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="600"/>
+</div>
+
 -->
