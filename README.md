@@ -2,28 +2,28 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sofijacom&label=Profile%20views&color=blueviolet&size=24&style=flat" alt="sofijacom" /> </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7D3ACC&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Sofiya+" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7D3ACC&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Sofiya+" alt="cat-footer" />
 </h3>
 
 
 <p align="center">
-  <img src="https://github.com/sofijacom/sofijacom/assets/107557749/c4abfbc2-02d4-4a79-a75f-24e948bf83ee" /> 
+  <img src="https://github.com/sofijacom/sofijacom/assets/107557749/c4abfbc2-02d4-4a79-a75f-24e948bf83ee" alt="cat-footer" /> 
 </p>
 
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly" alt="cat-footer" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom&layout=compact&theme=jolly&langs_count=10&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom&layout=compact&theme=jolly&langs_count=10&card_width=320" alt="cat-footer" />
 </a>
 
 <div id="header" align="center">
-  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="540"/>
+  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="540" alt="cat-footer" />
 </div>
 
-<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160"/>
+<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160" alt="cat-footer" />
 
 <p align="center">
   
