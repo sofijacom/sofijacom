@@ -6,10 +6,6 @@
 </h3>
 
 
-<p align="center">
-  <img src="https://github.com/sofijacom/sofijacom/assets/107557749/c4abfbc2-02d4-4a79-a75f-24e948bf83ee" alt="cat-footer" /> 
-</p>
-
 ![divider](https://github.com/sofijacom/sofijacom/assets/107557749/7440f266-bfb2-4f41-b219-bcda799be1e9)
    
 <a href="https://github.com/anuraghazra/github-readme-stats">
