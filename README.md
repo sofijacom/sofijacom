@@ -34,6 +34,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+![snake gif](https://github.com/sofijacom/sofijacom/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 <!--
