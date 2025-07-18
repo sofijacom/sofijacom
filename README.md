@@ -47,7 +47,14 @@
     </td>
   </tr>
 </table>
-<br /> 
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center"> Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofijacom&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
+
 <!--   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly" alt="cat-footer" />
