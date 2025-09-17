@@ -15,7 +15,7 @@
 -->
 
 <!--Github stats Table--> 
-<h2 align="center"> Gɪᴛʜᴜʙ Sᴛᴀᴛs </h2>
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
 <table width="100%">
   <tr>
@@ -84,6 +84,9 @@
 -->
 ![snake gif](https://github.com/sofijacom/sofijacom/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+</p>
 
 <!--
 github-contribution-grid-snake.svg
