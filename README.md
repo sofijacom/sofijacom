@@ -1,6 +1,8 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sofijacom&label=Profile%20views&color=blueviolet&size=24&style=flat" alt="sofijacom" /> </p>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+
 <div align="center">
   <img align="left" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/left.gif" width="21%" style="display:inline;">
   <img align="right" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/right.gif" width="21%" style="display:inline;">
