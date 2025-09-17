@@ -39,7 +39,7 @@
       <h3 align="center"><strong>Lᴀɴɢᴜᴀɢᴇs </strong></h3>
       <p align="center">
         <a href="https://github.com/sofijacom">
-        <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom&layout=compact&theme=nightowl&langs_count=10&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" width="470" height="200" />
+        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofijacom&layout=compact&theme=nightowl&langs_count=4&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" width="470" height="200" />
         </a>
       </p>
     </td>
