@@ -1,9 +1,12 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sofijacom&label=Profile%20views&color=blueviolet&size=24&style=flat" alt="sofijacom" /> </p>
 
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+-->
 
 <div align="center">
+  
   <img align="left" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/left.gif" width="21%" style="display:inline;">
   <img align="right" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/right.gif" width="21%" style="display:inline;">
   <img algin="middle" src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&color=7D3ACC&size=48&center=true&vCenter=true&width=650&height=120&duration=4000&lines=Hello+There!+I'm+Sofiya+" width="58%" style="display:inline; alt="cat-footer" />
@@ -68,6 +71,7 @@
   <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="540" alt="cat-footer" />
 </div>
 
+
 <img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160" alt="cat-footer" />
 
 <p align="center">
@@ -82,12 +86,15 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
--->
-![snake gif](https://github.com/sofijacom/sofijacom/blob/output/github-contribution-grid-snake-dark.svg)
 
+![snake gif](https://github.com/sofijacom/sofijacom/blob/output/github-contribution-grid-snake-dark.svg)
+-->
+
+<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 </p>
+-->
 
 <!--
 github-contribution-grid-snake.svg
