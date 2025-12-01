@@ -80,7 +80,7 @@
   
 </p> 
 
-<!--
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
@@ -88,7 +88,7 @@
 </picture>
 
 ![snake gif](https://github.com/sofijacom/sofijacom/blob/output/github-contribution-grid-snake-dark.svg)
--->
+
 
 <!--
 <p align="center">
@@ -105,6 +105,7 @@ Contribution Graph
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofijacom&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
+
 
 **sofijacom/sofijacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
