@@ -7,7 +7,6 @@
 
 <!--
 <div align="center">
-
   <img align="left" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/left.gif" width="21%" style="display:inline;">
   <img align="right" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/right.gif" width="21%" style="display:inline;">
 -->
