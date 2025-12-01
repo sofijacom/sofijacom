@@ -5,13 +5,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 -->
 
+<!--
 <div align="center">
-  
+
   <img align="left" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/left.gif" width="21%" style="display:inline;">
   <img align="right" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/right.gif" width="21%" style="display:inline;">
-  <img algin="middle" src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&color=7D3ACC&size=48&center=true&vCenter=true&width=650&height=120&duration=4000&lines=Hello+There!+I'm+Sofiya+" width="58%" style="display:inline; alt="cat-footer" />
+-->
   
-<!--
+<div align="center">  
+<img algin="middle" src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&color=7D3ACC&size=48&center=true&vCenter=true&width=650&height=120&duration=4000&lines=Hello+There!+I'm+Sofiya+" width="58%" style="display:inline; alt="cat-footer" />
+   
+
+ <!--
 <h3 align="center">
   <img algin="middle" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7D3ACC&size=48&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Sofiya+" alt="cat-footer" />
 </h3>
