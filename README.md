@@ -78,7 +78,7 @@
 </div>
 
 
-<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="160" alt="cat-footer" />
+<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="200" alt="cat-footer" />
 
 
 <p align="center">
