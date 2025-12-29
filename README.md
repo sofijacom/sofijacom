@@ -2,7 +2,11 @@
 <a href="https://github.com/sofijacom"><img src="https://img.shields.io/github/followers/sofijacom?label=followers&style=social"/></a>
 </p>
 
-<img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" />
+<div align="center">  
+<img algin="middle" src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&color=7D3ACC&size=42&center=true&vCenter=true&width=650&height=120&duration=4000&lines=Hello+There!+I'm+Sofiya+" width="58%" style="display:inline; alt="cat-footer" />
+</div>
+
+<!-- <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" /> -->
 
 ### All About Me 👤
 - 🤵 My name is `Sofiya S.V`
@@ -10,6 +14,15 @@
 - 🏡 I live in `Russia`
 - 🏫 `Software OS Linux` IT technology engineer
 - 🌐 My personal site is <a href="Kennel-Linux">https://sofijacom.github.io/</a>
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" />
 
