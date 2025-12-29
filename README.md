@@ -1,6 +1,7 @@
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sofijacom&label=Profile%20views&color=blueviolet&size=24&style=flat" alt="sofijacom" /> </p>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sofijacom&label=Profile%20views&color=blueviolet&size=24&style=flat" alt="sofijacom" />
+<a href="https://github.com/sofijacom"><img src="https://img.shields.io/github/followers/sofijacom?label=followers&style=social"/></a>
+</p>
 
 ### All About Me 👤
 - 🤵 My name is `Sofiya S.V`
