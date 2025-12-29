@@ -78,7 +78,7 @@
 </div> -->
 
 <div id="header" align="center">
-  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="750" alt="cat-footer" />
+  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" />
 </div>  
 
 <img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="200" alt="cat-footer" />
