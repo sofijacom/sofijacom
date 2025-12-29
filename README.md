@@ -22,6 +22,7 @@
 - 💻 Stuff:
   - HP Pavilion g6 Notebook PC
   - Arch OS Linux
+  - Void OS Linux
   - KDE Plasma & Hyprland 
 
 
