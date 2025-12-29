@@ -72,11 +72,14 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofijacom&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
-
+<!--
 <div id="header" align="center">
   <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="540" alt="cat-footer" />
-</div>
+</div> -->
 
+<div id="header" align="center">
+  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="540" alt="cat-footer" />
+</div>  
 
 <img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="200" alt="cat-footer" />
 
