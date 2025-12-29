@@ -1,6 +1,29 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sofijacom&label=Profile%20views&color=blueviolet&size=24&style=flat" alt="sofijacom" /> </p>
 
+
+### All About Me 👤
+- 🤵 My name is `Sofiya S.V`
+- 🗣️ People called me `Sonya`
+- 🏡 I live in `Russia`
+- 🏫 `Software OS Linux` IT technology engineer
+- 🌐 My personal site is <a href="Kennel-Linux">https://sofijacom.github.io/</a>
+
+  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" />
+
+### ⚙️ Development Tools
+- 🖊️ Text Editor & IDE:
+  - Visual Studio Code (main)
+  - Neovim 
+- 🌐 Browser:
+  - Yandex browser
+  - Google Chrome
+- 💻 Stuff:
+  - HP Pavilion g6 Notebook PC
+  - Arch OS Linux
+  - KDE Plasma & Hyprland 
+
+
 <!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 -->
@@ -10,9 +33,9 @@
   <img align="left" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/left.gif" width="21%" style="display:inline;">
   <img align="right" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/right.gif" width="21%" style="display:inline;">
 -->
-  
+<!--  
 <div align="center">  
-<img algin="middle" src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&color=7D3ACC&size=48&center=true&vCenter=true&width=650&height=120&duration=4000&lines=Hello+There!+I'm+Sofiya+" width="58%" style="display:inline; alt="cat-footer" />
+<img algin="middle" src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&color=7D3ACC&size=48&center=true&vCenter=true&width=650&height=120&duration=4000&lines=Hello+There!+I'm+Sofiya+" width="58%" style="display:inline; alt="cat-footer" /> -->
    
 
  <!--
@@ -66,17 +89,18 @@
 <br />
 -->
 
-
+<!--
 <h2 align="center"> Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ </h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofijacom&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
+</div> -->
 
 <!--
 <div id="header" align="center">
   <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/undefined%20-%20Imgur.png" width="540" alt="cat-footer" />
 </div> -->
 
+<!--
 <div id="header" align="center">
   <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" />
 </div>  
@@ -88,7 +112,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Thank+you+for+visiting+!+❤+❤+❤)](https://git.io/typing-svg)
   
-</p> 
+</p>  -->
 
 <!--
 <picture>
@@ -130,6 +154,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ✨ https://git.io/typing-svg ...
+
+### All About Me 👤
+- 🤵 My name is `Sofiya S.V`
+- 🗣️ People called me `Sonya`
+- 🏡 I live in `Russia`
+- 🏫 `Software OS Linux` IT technology engineer
+- 🌐 My personal site is <a href="https://sofijacom.github.io/"</a>
+
+<img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" />
+
+### ⚙️ Development Tools
+- 🖊️ Text Editor & IDE:
+  - Visual Studio Code (main)
+  - Neovim 
+- 🌐 Browser:
+  - Yandex browser
+  - Google Chrome
+- 💻 Stuff:
+  - HP Pavilion g6 Notebook PC
+  - Arch OS Linux
+  - KDE Plasma & Hyprland 
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sofijacom&theme=jolly" alt="cat-footer" />
