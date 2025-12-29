@@ -1,7 +1,8 @@
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sofijacom&label=Profile%20views&color=blueviolet&size=24&style=flat" alt="sofijacom" />
 <a href="https://github.com/sofijacom"><img src="https://img.shields.io/github/followers/sofijacom?label=followers&style=social"/></a>
 </p>
+
+<img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" />
 
 ### All About Me 👤
 - 🤵 My name is `Sofiya S.V`
@@ -10,7 +11,7 @@
 - 🏫 `Software OS Linux` IT technology engineer
 - 🌐 My personal site is <a href="Kennel-Linux">https://sofijacom.github.io/</a>
 
-  <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" />
+<img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" />
 
 ### ⚙️ Development Tools
 - 🖊️ Text Editor & IDE:
@@ -24,7 +25,6 @@
   - Arch OS Linux
   - Void OS Linux
   - KDE Plasma & Hyprland 
-
 
 <!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
