@@ -7,7 +7,7 @@
 </div>-->
 
 <!-- <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" /> -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/> -->
 
 ### All About Me 👤
 - 🤵 My name is `Sofiya S.V`
@@ -33,7 +33,7 @@
 
 <img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="200" alt="cat-footer" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/> -->
 
 
 <!--
