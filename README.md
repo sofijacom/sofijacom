@@ -13,7 +13,7 @@
 - 🤵 My name is `Sofiya S.V`
 - 🗣️ People called me `Sonya`
 - 🏡 I live in `Russia`
-- 🏫 `Software OS Linux` IT technology engineer
+- 🏫 `Software OS Linux` developer
 - 🌐 My personal site is <a href="Kennel-Linux">https://sofijacom.github.io/</a>
 
 <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" />
