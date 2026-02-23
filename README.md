@@ -26,7 +26,8 @@
   - Yandex browser
   - Google Chrome
 - 💻 Stuff:
-  - HP Pavilion g6 Notebook PC, THUNDEROBOT 12th Gen Intel(R) Core(TM) i5-12450H (2.00 GHz)
+  - HP Pavilion g6 Notebook PC
+  - THUNDEROBOT 12th Gen Intel(R) Core(TM) i5-12450H (2.00 GHz)
   - Arch OS Linux
   - Void OS Linux
   - KDE Plasma & Hyprland 
