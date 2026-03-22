@@ -33,7 +33,7 @@
   - Void OS Linux
   - KDE Plasma & Hyprland 
 
-<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme.png" width="200" alt="cat-footer" />
+<img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme-1.png" width="200" alt="cat-footer" />
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/> -->
 
