@@ -16,6 +16,8 @@
 - 🏫 `Software OS Linux` developer
 - 🌐 My personal site is <a href="Kennel-Linux">https://sofijacom.github.io/</a>
 
+<img width="888" height="40" alt="split" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split.png" />
+
 ### 🔧 Technologies & Tools
 
 <!-- Programming Languages -->
