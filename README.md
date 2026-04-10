@@ -36,6 +36,7 @@
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-000?logo=linux&logoColor=fff)](#)
+[![Hyprland Linux](https://img.shields.io/badge/Hyprland-purple?logo=hyprland&logoColor=blue)](#)
 <!-- [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) -->
 <!-- <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" /> -->
 
