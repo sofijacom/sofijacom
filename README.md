@@ -24,9 +24,6 @@
 
 <!-- Programming Languages -->
 ![Shell Script](https://img.shields.io/badge/shell_script-%23101010.svg?style=plastic&logo=gnu-bash&logoColor=white)
-<!-- ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=plastic&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23F94A00.svg?style=plastic&logo=rust&logoColor=white)
-![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) -->
 
 <!-- Dev Tools & OS -->
 ![git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white)
@@ -35,7 +32,13 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
 <!-- ![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=plastic&label=Xlibre-Void&logo=X&color=df8e1d) -->
 
-<!--<img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" /> -->
+[![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+[![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-000?logo=linux&logoColor=fff)](#)
+<!-- [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) -->
+<!-- <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" /> -->
+
 <img width="888" height="40" alt="split" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split.png" />
 
 ### ⚙️ Development Tools
