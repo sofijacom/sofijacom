@@ -30,13 +30,15 @@
 ![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=plastic&logo=voidlinux&logoColor=white)
 ![Xlibre](https://img.shields.io/badge/XLibre-Xlibre?style=plastic&logo=X&color=df8e1d)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+
 <!-- ![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=plastic&label=Xlibre-Void&logo=X&color=df8e1d) -->
 
 [![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+[![Hyprland Linux](https://img.shields.io/badge/Hyprland-a5adcb?logo=hyprland&logoColor=blue)](#)
 [![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-000?logo=linux&logoColor=fff)](#)
-[![Hyprland Linux](https://img.shields.io/badge/Hyprland-c6a0f6?logo=hyprland&textColor=blue&logoColor=blue)](#)
+
 <!-- [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) -->
 <!-- <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" /> -->
 
