@@ -23,13 +23,13 @@
 ### 🔧 Technologies & Tools
 
 <!-- Programming Languages -->
-![Shell Script](https://img.shields.io/badge/shell_script-%23101010.svg?style=plastic&logo=gnu-bash&logoColor=white)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23101010.svg?style=plastic&logo=gnu-bash&logoColor=white)](#)
 
 <!-- Dev Tools & OS -->
-![git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white)
-![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=plastic&logo=voidlinux&logoColor=white)
-![Xlibre](https://img.shields.io/badge/XLibre-Xlibre?style=plastic&logo=X&color=df8e1d)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+[![git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white)](#)
+[![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=plastic&logo=voidlinux&logoColor=white)](#)
+[![Xlibre](https://img.shields.io/badge/XLibre-Xlibre?style=plastic&logo=X&color=df8e1d)](#)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)](#)
 
 <!-- ![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=plastic&label=Xlibre-Void&logo=X&color=df8e1d) -->
 
