@@ -57,7 +57,7 @@
   - Void OS Linux
   - KDE Plasma & Hyprland 
 
-### GitHub stats
+### 💫 GitHub stats
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofijacom&theme=github)
@@ -84,4 +84,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ✨ https://git.io/typing-svg ...
+- 💫 ...
 -->
