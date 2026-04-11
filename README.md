@@ -59,11 +59,15 @@
 
 ### 💫 GitHub stats
 
+<div align="center">
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sofijacom&theme=github)
+
+</div>
 
 <img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/readme-1.png" width="200" alt="cat-footer" />
 
