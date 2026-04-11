@@ -57,10 +57,10 @@
   - Void OS Linux
   - KDE Plasma & Hyprland 
 
-### 💫 GitHub stats
-
 <div align="center">
-  
+
+### GitHub stats
+ 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sofijacom&theme=github)
@@ -76,7 +76,7 @@
 
 <!--
 **sofijacom/sofijacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://github.blog/wp-content/uploads/2024/07/recirculation-github-icon.svg" width="36" height="36" class="width-auto d-block mb-3" alt="GitHub">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
