@@ -61,7 +61,7 @@
 
 ### GitHub stats
 
-<img width="40" height="40" alt="GitHub" src="https://raw.githubusercontent.com/sofijacom/sofijacom/a7bd20e00f0bde3e8f7e4fe2fe627f61d87c230c/icons_line/github-f.svg" />
+<img width="40" height="40" alt="GitHub" src="https://raw.githubusercontent.com/sofijacom/sofijacom/b58b6c15617ccfdf2da21f2f09ba7b5fd5d88a8d/icons_line/Github-Icon.svg" />
 <!-- <img src="https://github.blog/wp-content/uploads/2024/07/recirculation-github-icon.svg" width="64" height="64" class="width-auto d-block mb-3" alt="GitHub"> -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofijacom&theme=github)
