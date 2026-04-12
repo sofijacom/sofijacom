@@ -61,7 +61,9 @@
 
 ### GitHub stats
 
-<img src="https://github.blog/wp-content/uploads/2024/07/recirculation-github-icon.svg" width="36" height="36" class="width-auto d-block mb-3" alt="GitHub">
+<img width="40" height="40" alt="GitHub" src="https://github.com" />
+
+<img src="https://github.blog/wp-content/uploads/2024/07/recirculation-github-icon.svg" width="64" height="64" class="width-auto d-block mb-3" alt="GitHub">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofijacom&theme=github)
