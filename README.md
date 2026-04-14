@@ -37,10 +37,10 @@
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![Hyprland Linux](https://img.shields.io/badge/Hyprland-a5adcb?logo=hyprland&logoColor=blue)](#)
 [![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-000?logo=linux&logoColor=fff)](#)
-<!-- [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) -->
+<!-- [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) FF1B2D -->
 
 ### 🌐 Browser
-[![Yandex Browser](https://img.shields.io/badge/Yandex%20Browser-FF1B2D?logo=Yandex&logoColor=white)](#)
+[![Yandex Browser](https://img.shields.io/badge/Y-Yandex%20Browser-FF1B2D?logo=Yandex&logoColor=white)](#)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)
 [![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white)](#)
