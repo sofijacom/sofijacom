@@ -39,13 +39,13 @@
 [![git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white)](#)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-[![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=plastic&logo=voidlinux&logoColor=white)](#)
 [![Xlibre](https://img.shields.io/badge/XLibre-Xlibre?style=plastic&logo=X&color=df8e1d)](#)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)](#)
 <!-- [![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=plastic&label=Xlibre-Void&logo=X&color=df8e1d)](#) -->
 
 ### 🖥️ Operating System
 [![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)
+[![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=plastic&logo=voidlinux&logoColor=white)](#)
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![Hyprland Linux](https://img.shields.io/badge/Hyprland-a5adcb?logo=hyprland&logoColor=blue)](#)
