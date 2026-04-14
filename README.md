@@ -57,7 +57,7 @@
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=plastic&logo=windows11&logoColor=white)](#)
 <!-- Browser -->
 ### 🌐 Browser
-[![Yandex Browser](https://img.shields.io/badge/Y-Yandex%20Browser-FF1B2D?style=plastic&logo=Yandex&logoColor=white)](#)
+[![Yandex Browser](https://img.shields.io/badge/Y-Yandex--Browser-FF1B2D?style=plastic&logo=Yandex&logoColor=white)](#)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=plastic&logo=GoogleChrome&logoColor=white)](#)
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=plastic&logo=Firefox&logoColor=white)](#)
 [![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?style=plastic&logo=edge-white&logoColor=white)](#)
