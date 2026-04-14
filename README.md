@@ -37,6 +37,8 @@
 [![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)](#)
 <!-- Dev Tools & OS -->
 [![git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=plastic&logo=voidlinux&logoColor=white)](#)
 [![Xlibre](https://img.shields.io/badge/XLibre-Xlibre?style=plastic&logo=X&color=df8e1d)](#)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)](#)
