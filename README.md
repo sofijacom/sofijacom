@@ -39,8 +39,8 @@
 [![git](https://img.shields.io/badge/Git-%23F05032.svg?style=plastic&logo=git&logoColor=white)](#)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=fff)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)](#)
-[![Xlibre](https://img.shields.io/badge/XLibre-Xlibre?style=plastic&logo=X&color=df8e1d)](#)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)](#)
+[![Xlibre](https://img.shields.io/badge/XLibre-Xlibre?style=plastic&logo=X&color=df8e1d)](#)
 <!-- [![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=plastic&label=Xlibre-Void&logo=X&color=df8e1d)](#) -->
 
 ### 🖥️ Operating System
