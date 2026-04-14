@@ -37,7 +37,7 @@
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![Hyprland Linux](https://img.shields.io/badge/Hyprland-a5adcb?logo=hyprland&logoColor=blue)](#)
 [![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-000?logo=linux&logoColor=fff)](#)
-<!-- [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) FF1B2D -->
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 ### 🌐 Browser
 [![Yandex Browser](https://img.shields.io/badge/Y-Yandex%20Browser-FF1B2D?logo=Yandex&logoColor=white)](#)
