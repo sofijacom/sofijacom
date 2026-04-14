@@ -46,7 +46,7 @@
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=plastic&logo=visualstudio&logoColor=white)](#)
 [![Xlibre](https://img.shields.io/badge/XLibre-Xlibre?style=plastic&logo=X&color=df8e1d)](#)
 <!-- [![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=plastic&label=Xlibre-Void&logo=X&color=df8e1d)](#) -->
-
+<!-- Operating System -->
 ### 🖥️ Operating System
 [![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=plastic&logo=kdeplasma&logoColor=fff)](#)
 [![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=plastic&logo=voidlinux&logoColor=white)](#)
@@ -55,7 +55,7 @@
 [![Hyprland Linux](https://img.shields.io/badge/Hyprland-a5adcb?style=plastic&logo=hyprland&logoColor=blue)](#)
 [![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-000?style=plastic&logo=linux&logoColor=fff)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=plastic&logo=windows11&logoColor=white)](#)
-
+<!-- Browser -->
 ### 🌐 Browser
 [![Yandex Browser](https://img.shields.io/badge/Y-Yandex%20Browser-FF1B2D?style=plastic&logo=Yandex&logoColor=white)](#)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=plastic&logo=GoogleChrome&logoColor=white)](#)
