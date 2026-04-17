@@ -90,6 +90,8 @@
 <!-- <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> -->
 <!-- <img src="https://github.blog/wp-content/uploads/2024/07/recirculation-github-icon.svg" width="64" height="64" class="width-auto d-block mb-3" alt="GitHub"> -->
 
+<br>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sofijacom&theme=github)
