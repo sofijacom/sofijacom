@@ -57,11 +57,11 @@
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=plastic&logo=windows11&logoColor=white)](#)
 <!-- Browser -->
 ### 🌐 Browser
-[![Yandex Browser](https://img.shields.io/badge/Y-Yandex--Browser-FF1B2D?style=plastic&logo=Yandex&logoColor=white)](#)
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=plastic&logo=GoogleChrome&logoColor=white)](#)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=plastic&logo=Firefox&logoColor=white)](#)
-[![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?style=plastic&logo=edge-white&logoColor=white)](#)
-[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=plastic&logo=Vivaldi&logoColor=white)](#)
+[![Yandex Browser](https://img.shields.io/badge/Y-Yandex--Browser-FF1B2D?style=plastic&logo=Yandex&logoColor=white)](https://browser.yandex.ru/)
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=plastic&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=plastic&logo=Firefox&logoColor=white)](https://www.firefox.com/ru/)
+[![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?style=plastic&logo=edge-white&logoColor=white)](https://www.microsoft.com/ru-ru/edge/Download?form=MA13FJ)
+[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=plastic&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru/download/)
 
 
 <!-- <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" /> -->
