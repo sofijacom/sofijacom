@@ -53,7 +53,7 @@
 [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=plastic&logo=manjaro&logoColor=fff)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=plastic&logo=arch-linux&logoColor=fff)](#)
 [![Hyprland Linux](https://img.shields.io/badge/Hyprland-a5adcb?style=plastic&logo=hyprland&logoColor=blue)](#)
-[![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-000?style=plastic&logo=linux&logoColor=fff)](#)
+[![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-000?style=plastic&logo=linux&logoColor=fff)](https://forum.puppylinux.com/)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=plastic&logo=windows11&logoColor=white)](#)
 <!-- Browser -->
 ### 🌐 Browser
