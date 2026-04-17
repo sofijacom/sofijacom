@@ -68,7 +68,8 @@
 
 <img width="888" height="40" alt="split" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split.png" />
 
-## My favorite tools and technologies ⚙️
+<!--
+### ⚙️ My favorite tools and technologies
 
 <table>
   <tr>
@@ -190,6 +191,7 @@
  <tr>
  </tr>
 </table>
+-->
 
 ### ⚙️ Development Tools
 - 🖊️ Text Editor & IDE:
