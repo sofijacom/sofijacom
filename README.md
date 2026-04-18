@@ -76,7 +76,7 @@
 [![YAML](https://img.shields.io/badge/YAML-CB171E?style=plastic&logo=yaml&logoColor=fff)](#)
 [![XML](https://img.shields.io/badge/XML-767C52?style=plastic&logo=xml&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=fff)](#)
-[![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=plastic&logo=cshrp&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=000)](#)
 [![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?style=plastic&logo=perl&logoColor=white)](#)
