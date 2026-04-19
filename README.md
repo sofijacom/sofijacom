@@ -137,12 +137,13 @@
 <!-- <img width="40" height="40" alt="GitHub" src="https://raw.githubusercontent.com/sofijacom/sofijacom/1212f8553bcd0dc7b9fa530eb71926d1a9eee6bc/icons_line/github-g.svg" />
 
 <br> -->
-<!-- github/transparent -->
+
+<!-- github/transparent (https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sofijacom&theme=github)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=github)
 
 ### 🏆 Github Trophy
 <!-- /flat/matrix -->
