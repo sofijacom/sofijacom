@@ -145,9 +145,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=github)
 
 ### 🏆 Github Trophy
-<!-- catppuccin-latte/flat -->
-[![trophy](https://github-profile-repo.vercel.app/?username=sofijacom&theme=matrix&row=1&column=9)
-[![trophy](https://github-profile-trophy-tawny.vercel.app/?username=sofijacom&column=3&margin-w=15&margin-h=15&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- /flat/matrix/catppuccin-latte -->
+[![trophy](https://github-profile-repo.vercel.app/?username=sofijacom&theme=flat&row=1&column=9)](https://github-profile-repo.vercel.app)
+<!-- [![trophy](https://github-profile-trophy-tawny.vercel.app/?username=sofijacom&column=3&margin-w=15&margin-h=15&theme=flat)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- [![trophy](https://gh-trophy.cdnsoft.net/?username=sofijacom&margin-w=15&margin-h=15&theme=darkhub&no-frame=true&no-bg=true&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- https://github-profile-trophy-sigma-one.vercel.app/?username=sofijacom&theme=flat -->
 
