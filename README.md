@@ -132,14 +132,14 @@
   - KDE Plasma & Hyprland 
 
 <div align="center">
-
+  
 ### GitHub stats
+<!-- <img width="40" height="40" alt="GitHub" src="https://raw.githubusercontent.com/sofijacom/sofijacom/1212f8553bcd0dc7b9fa530eb71926d1a9eee6bc/icons_line/github-g.svg" />
 
-<img width="40" height="40" alt="GitHub" src="https://raw.githubusercontent.com/sofijacom/sofijacom/1212f8553bcd0dc7b9fa530eb71926d1a9eee6bc/icons_line/github-g.svg" />
-<!-- <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/> -->
-<!-- <img src="https://github.blog/wp-content/uploads/2024/07/recirculation-github-icon.svg" width="64" height="64" class="width-auto d-block mb-3" alt="GitHub"> -->
+<img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://github.blog/wp-content/uploads/2024/07/recirculation-github-icon.svg" width="64" height="64" class="width-auto d-block mb-3" alt="GitHub">
 
-<br>
+<br> -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofijacom&theme=github)
@@ -147,9 +147,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=github)
 
-<!--### Statistics catppuccin-latte-->
 ### 🏆 Github Trophy
-![trophy](https://github-profile-trophy-tawny.vercel.app/?username=sofijacom&theme=flat)
+<!-- catppuccin-latte/flat -->
+![trophy](https://github-profile-trophy-tawny.vercel.app/?username=sofijacom&&column=3&margin-w=15&margin-h=15&theme=flat)
+<!-- ![trophy](https://github-profile-trophy-tawny.vercel.app/?username=sofijacom&theme=nord) -->
 
 </div>
 
