@@ -147,8 +147,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=github)
 
-<!--### Statistics-->
-![trophy](https://github-profile-trophy-tawny.vercel.app/?username=sofijacom&theme=catppuccin-latte)
+<!--### Statistics catppuccin-latte-->
+### 🏆 Github Trophy
+![trophy](https://github-profile-trophy-tawny.vercel.app/?username=sofijacom&theme=flat)
 
 </div>
 
