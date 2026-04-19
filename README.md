@@ -2,7 +2,13 @@
 <a href="https://github.com/sofijacom"><img src="https://img.shields.io/github/followers/sofijacom?label=followers&style=social"/></a>
 </p>
 
-<!--<div align="center">  
+<!-- <div align="right">
+  
+[![Profile views](https://komarev.com/ghpvc/?username=sofijacom&color=blueviolet)](#)
+[![Followers](https://img.shields.io/github/followers/sofijacom?label=followers&style=social)](#)
+</div> -->
+
+<!-- <div align="center">  
 <img algin="middle" src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&color=7D3ACC&size=42&center=true&vCenter=true&width=650&height=120&duration=4000&lines=Hello+There!+I'm+Sofiya+" width="58%" style="display:inline; alt="cat-footer" />
 </div>-->
 
