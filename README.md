@@ -137,15 +137,15 @@
 <!-- <img width="40" height="40" alt="GitHub" src="https://raw.githubusercontent.com/sofijacom/sofijacom/1212f8553bcd0dc7b9fa530eb71926d1a9eee6bc/icons_line/github-g.svg" />
 
 <br> -->
-
+<!-- github/transparent -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sofijacom&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=github)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ### 🏆 Github Trophy
-<!-- /flat/matrix/catppuccin-latte -->
+<!-- /flat/matrix -->
 [![trophy](https://github-profile-repo.vercel.app/?username=sofijacom&theme=flat&row=1&column=9)](https://github-profile-repo.vercel.app)
 <!-- [![trophy](https://github-profile-trophy-tawny.vercel.app/?username=sofijacom&column=3&margin-w=15&margin-h=15&theme=flat)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- [![trophy](https://gh-trophy.cdnsoft.net/?username=sofijacom&margin-w=15&margin-h=15&theme=darkhub&no-frame=true&no-bg=true&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
