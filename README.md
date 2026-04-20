@@ -8,13 +8,6 @@
 [![Followers](https://img.shields.io/github/followers/sofijacom?label=followers&style=social)](#)
 </div> -->
 
-<!-- <div align="center">  
-<img algin="middle" src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&color=7D3ACC&size=42&center=true&vCenter=true&width=650&height=120&duration=4000&lines=Hello+There!+I'm+Sofiya+" width="58%" style="display:inline; alt="cat-footer" />
-</div>-->
-
-<!-- <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" /> -->
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/> -->
-
 ### Hello 👋
 
 ### All About Me 👤
@@ -166,7 +159,7 @@
 
 <!--
 **sofijacom/sofijacom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://github.blog/wp-content/uploads/2024/07/recirculation-github-icon.svg" width="36" height="36" class="width-auto d-block mb-3" alt="GitHub">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
