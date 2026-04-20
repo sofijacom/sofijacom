@@ -132,6 +132,9 @@
   - KDE Plasma & Hyprland 
 
 <div align="center">
+
+<details>
+<summary><b>GitHub stats</b></summary>
   
 ### GitHub stats
 <!-- <img width="40" height="40" alt="GitHub" src="https://raw.githubusercontent.com/sofijacom/sofijacom/1212f8553bcd0dc7b9fa530eb71926d1a9eee6bc/icons_line/github-g.svg" />
@@ -144,6 +147,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sofijacom&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=github)
+
+</details>
 
 ### 🏆 Github Trophy
 <!-- /flat/matrix -->
