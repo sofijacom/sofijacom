@@ -119,7 +119,7 @@
   - Google Chrome
 - 💻 Stuff:
   - HP Pavilion g6 Notebook PC
-  - THUNDEROBOT 911S Core D Notebook PC
+  - Thunderobot 911S Core D Notebook PC
   - Arch OS Linux
   - Void OS Linux
   - KDE Plasma & Hyprland 
