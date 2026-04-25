@@ -143,11 +143,11 @@
 <br>
 
 <!-- github/graywhite/swift/solarized/transparent (https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofijacom&theme=graywhite)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofijacom&theme=graywhite)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sofijacom&theme=graywhite)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sofijacom&theme=graywhite)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=graywhite)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sofijacom&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sofijacom&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sofijacom&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sofijacom&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sofijacom&theme=solarized)
 
 </details>
 
