@@ -9,7 +9,7 @@
 </div> -->
 
 <!--### Hello 👋 -->
-## $${\color{purple}Hello \space }$$ 👋
+## $${\color{purple}Hello, \space I'm \space Sofiya}$$ 👋
 
 ### All About Me 👤
 - 🤵 My name is `Sofiya S.V`
