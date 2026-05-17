@@ -18,7 +18,7 @@
 - 🏫 `Software OS Linux` developer
 - 🌐 My personal site is <a href="Kennel-Linux">https://sofijacom.github.io/</a>
 
-<a>
+<a href="https://github.com/sofijacom">
   <img width="888" height="40" alt="split" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split.png" />
 <a/>
 
@@ -111,7 +111,7 @@
 
 <!-- <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" /> -->
 
-<a><img width="888" height="40" alt="split" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split.png" /><a/>
+<a href="https://github.com/sofijacom"><img width="888" height="40" alt="split" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split.png" /><a/>
 
 ### ⚙️ Development Tools
 - 🖊️ Text Editor & IDE:
@@ -156,12 +156,12 @@
 </div>
 
 <p align="center">
-  <a>
+  <a href="https://github.com/sofijacom">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=5a5f77&size=24&center=true&vCenter=true&width=450&duration=5000&lines=Thank+you+for+visiting+." alt="thank-you" />
  </a> 
 </p> 
 
-<a><img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/assets/readme-1.png" width="200" alt="cat-footer" /><a/>
+<a href="https://github.com/sofijacom"><img align='left' src="https://github.com/sofijacom/sofijacom/blob/main/assets/readme-1.png" width="200" alt="cat-footer" /><a/>
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/> -->
 
