@@ -68,45 +68,45 @@
 </table>
 
 <!-- Programming Languages -->
-[![Shell Script](https://img.shields.io/badge/shell_script-%23101010.svg?style=flat-square&logo=gnu-bash&logoColor=white)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=fff)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?style=flat-square&logo=css&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-squarec&logo=html5&logoColor=white)](#)
-[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)](#)
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)](#)
-[![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=fff)](#)
-[![XML](https://img.shields.io/badge/XML-767C52?style=flat-square&logo=xml&logoColor=fff)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-squarec&logo=python&logoColor=fff)](#)
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=flat-square&logo=cshrp&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](#)
-[![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?style=flat-square&logo=perl&logoColor=white)](#)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23101010.svg?style=flat&logo=gnu-bash&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?style=flat&logo=css&logoColor=fff)](#)
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white)](#)
+[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white)](#)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)](#)
+[![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoColor=fff)](#)
+[![XML](https://img.shields.io/badge/XML-767C52?style=flat&logo=xml&logoColor=fff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=flat&logo=cshrp&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)](#)
+[![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?style=flat&logo=perl&logoColor=white)](#)
 <!-- Dev Tools & OS -->
-[![git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)](#)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=fff)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](#)
-[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)](#)
-[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-squarec&logo=vsc&logoColor=white)](#)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=fff)](#)
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visualstudio&logoColor=white)](#)
-[![Xlibre](https://img.shields.io/badge/XLibre-Xlibre?style=flat-square&logo=X&color=df8e1d)](https://github.com/X11Libre)
+[![git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)](#)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=fff)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?style=flat&logo=vim&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=vsc&logoColor=white)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=fff)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visualstudio&logoColor=white)](#)
+[![Xlibre](https://img.shields.io/badge/XLibre-Xlibre?style=flat&logo=X&color=df8e1d)](https://github.com/X11Libre)
 <!-- [![Xlibre](https://img.shields.io/badge/xlibre-void/xlibre?style=plastic&label=Xlibre-Void&logo=X&color=df8e1d)](#) -->
 <!-- Operating System -->
 ### 🖥️ Operating System
-[![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=flat-square&logo=kdeplasma&logoColor=fff)](#)
-[![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=flat-square&logo=voidlinux&logoColor=white)](#)
-[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat-square&logo=manjaro&logoColor=fff)](#)
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=fff)](#)
-[![Hyprland Linux](https://img.shields.io/badge/Hyprland-blueviolet?style=flat-square&logo=hyprland&logoColor=white)](#)
-[![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-000?style=flat-square&logo=linux&logoColor=fff)](https://forum.puppylinux.com/)
-[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)](#)
+[![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=flat&logo=kdeplasma&logoColor=fff)](#)
+[![Void Linux](https://img.shields.io/badge/Void_Linux-%23458161.svg?style=flat&logo=voidlinux&logoColor=white)](#)
+[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=manjaro&logoColor=fff)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat&logo=arch-linux&logoColor=fff)](#)
+[![Hyprland Linux](https://img.shields.io/badge/Hyprland-blueviolet?style=flat&logo=hyprland&logoColor=white)](#)
+[![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-000?style=flat&logo=linux&logoColor=fff)](https://forum.puppylinux.com/)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat&logo=windows11&logoColor=white)](#)
 <!-- Browser -->
 ### 🌐 Browser
-[![Yandex Browser](https://img.shields.io/badge/Y-Yandex--Browser-FF1B2D?style=flat-square&logo=Yandex&logoColor=white&colorA=363a4f)](https://browser.yandex.ru/)
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=Firefox&logoColor=white)](https://www.firefox.com/ru/)
-[![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?style=flat-square&logo=edge-white&logoColor=white)](https://www.microsoft.com/ru-ru/edge/Download?form=MA13FJ)
+[![Yandex Browser](https://img.shields.io/badge/Y-Yandex--Browser-FF1B2D?style=flat&logo=Yandex&logoColor=white&colorA=363a4f)](https://browser.yandex.ru/)
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
+[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox&logoColor=white)](https://www.firefox.com/ru/)
+[![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?style=flat&logo=edge-white&logoColor=white)](https://www.microsoft.com/ru-ru/edge/Download?form=MA13FJ)
 [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru/download/)
 
 <!-- <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" /> -->
@@ -184,5 +184,5 @@ Here are some ideas to get you started:
 - ✨ https://git.io/typing-svg ...
 - 💫 ...
 
-style=flat-square / plastic
+style= flat / flat-square / plastic / badge
 -->
