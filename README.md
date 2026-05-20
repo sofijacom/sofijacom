@@ -184,5 +184,6 @@ Here are some ideas to get you started:
 - ✨ https://git.io/typing-svg ...
 - 💫 ...
 
-style= flat / flat-square / plastic / badge
+style=for-the-badge / style string
+Possible values: [flat, flat-square, plastic, badge, for-the-badge, social]
 -->
