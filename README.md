@@ -101,7 +101,7 @@
 [![Hyprland Linux](https://img.shields.io/badge/Hyprland-blueviolet?style=flat-square&logo=hyprland&logoColor=white)](#)
 [![Puppy Linux](https://img.shields.io/badge/Puppy%20Linux-000?style=flat-square&logo=linux&logoColor=fff)](https://forum.puppylinux.com/)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)](#)
-<!-- Browser -->plasti
+<!-- Browser -->
 ### 🌐 Browser
 [![Yandex Browser](https://img.shields.io/badge/Y-Yandex--Browser-FF1B2D?style=flat-square&logo=Yandex&logoColor=white&colorA=363a4f)](https://browser.yandex.ru/)
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
