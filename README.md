@@ -67,8 +67,7 @@
   </tr>
 </table>
 
-<!-- Programming Languages -->
-### 🐋 Programming Languages
+<!-- 🐋 Programming Languages -->
 [![Shell Script](https://img.shields.io/badge/shell_script-%23101010.svg?style=flat&logo=gnu-bash&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?style=flat&logo=css&logoColor=fff)](#)
