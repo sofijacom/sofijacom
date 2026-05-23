@@ -67,6 +67,8 @@
   </tr>
 </table>
 
+![icon-collection-basic](https://stats.pphat.top/icons?name=python,django,fastapi,react,tailwindcss,three.js,postgresql,mongodb,redis,gitlab,git,github,docker,linux,vscode&columns=20)
+
 <!-- 🐋 Programming Languages -->
 [![Shell Script](https://img.shields.io/badge/shell_script-%23101010.svg?style=flat&logo=gnu-bash&logoColor=white)](#)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)](#)
@@ -108,8 +110,6 @@
 [![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat&logo=Firefox&logoColor=white)](https://www.firefox.com/ru/)
 [![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?style=flat&logo=edge-white&logoColor=white)](https://www.microsoft.com/ru-ru/edge/Download?form=MA13FJ)
 [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru/download/)
-
-![icon-collection-basic](https://stats.pphat.top/icons?name=python,django,fastapi,react,tailwindcss,three.js,postgresql,mongodb,redis,gitlab,git,github,docker,linux,vscode&columns=20)
 
 <!-- <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" /> -->
 
