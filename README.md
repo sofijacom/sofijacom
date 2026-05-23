@@ -109,6 +109,8 @@
 [![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?style=flat&logo=edge-white&logoColor=white)](https://www.microsoft.com/ru-ru/edge/Download?form=MA13FJ)
 [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=flat-square&logo=Vivaldi&logoColor=white)](https://vivaldi.com/ru/download/)
 
+![icon-collection-basic](https://stats.pphat.top/icons?name=python,django,fastapi,react,tailwindcss,three.js,postgresql,mongodb,redis,git,docker,linux,vscode&columns=20)
+
 <!-- <img src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split-line.gif" width="100%" alt="cat-footer" /> -->
 
 <a href="https://github.com/sofijacom"><img width="888" height="40" alt="split" src="https://github.com/sofijacom/sofijacom/blob/main/icons_line/split.png" /><a/>
