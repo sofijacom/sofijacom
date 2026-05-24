@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-![icon-collection-basic](https://stats.pphat.top/icons?name=nginx,rust,javascript,python,django,neovim,fastapi,react,tailwindcss,three.js,postgresql,mongodb,redis,gitlab,git,github,docker,linux,vscode&columns=20)
+![icon-collection-basic](https://stats.pphat.top/icons?name=neovim,nginx,rust,javascript,python,django,fastapi,react,tailwindcss,three,json,postgresql,mongodb,redis,gitlab,git,github,docker,linux,&columns=20)
 
 <!-- 🐋 Programming Languages -->
 [![Shell Script](https://img.shields.io/badge/shell_script-%23101010.svg?style=flat&logo=gnu-bash&logoColor=white)](#)
