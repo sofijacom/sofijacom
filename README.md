@@ -8,8 +8,8 @@
 [![Followers](https://img.shields.io/github/followers/sofijacom?label=followers&style=social)](#)
 </div> -->
 
-## Hello 👋
-<!-- ## $${\color{purple}Hi \space there}$$ 👋 -->
+<!-- ## Hello 👋 -->
+## $${\color{purple}Hi \space there}$$ 👋
 
 ### All About Me 👤
 - 🤵 My name is `Sofiya S.V`
