@@ -138,8 +138,7 @@
 <!-- [![trophy](https://gh-trophy.cdnsoft.net/?username=sofijacom&margin-w=15&margin-h=15&theme=darkhub&no-frame=true&no-bg=true&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!-- https://github-profile-trophy-sigma-one.vercel.app/?username=sofijacom&theme=flat -->
 
-<img width="auto" height="64" alt="octocat" src="https://github.com/user-attachments/assets/ee7cfb9f-bbf9-4f27-aba7-0e35eac68863" />
-
+<a href="https://github.com/sofijacom"><img align='center' width="auto" height="64" alt="octocat" src="./icons_line/octocat.gif" /><a/>
 
 <details>
 <summary><b>GitHub stats</b></summary>
