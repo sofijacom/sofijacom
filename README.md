@@ -23,7 +23,7 @@
 <a/>
 
 ### 🔧 Technologies & Tools
-
+<!--
 <table>
   <tr>
     <td align="center" width="96">
@@ -67,7 +67,7 @@
   </tr>
 </table>
 
-![icon-collection-basic](https://stats.pphat.top/icons?name=apple,archlinux,docker,django,fastapi,gitlab,git,github,json,javascript,linux,mongodb,neovim,nginx,postgresql,python,rust,react,redis,tailwindcss,&columns=20)
+![icon-collection-basic](https://stats.pphat.top/icons?name=apple,archlinux,docker,django,fastapi,gitlab,git,github,json,javascript,linux,mongodb,neovim,nginx,postgresql,python,rust,react,redis,tailwindcss,&columns=20) -->
 
 <!-- 🐋 Programming Languages -->
 [![Shell Script](https://img.shields.io/badge/shell_script-%23101010.svg?style=flat&logo=gnu-bash&logoColor=white)](#)
